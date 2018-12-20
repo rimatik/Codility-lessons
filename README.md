@@ -1,2 +1,2 @@
 # Codility-lessons
-This repository contains lessons from codility coding lessons
+This repository contains solved tasks from codility coding lessons
